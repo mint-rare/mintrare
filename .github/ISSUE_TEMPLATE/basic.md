@@ -15,3 +15,4 @@ assignees: ''
 `backend`
 `frontend`
 `contract`
+`service`
